@@ -1,5 +1,5 @@
 {
-    "name": "dzasa/maratus-php-backup",
+    "name": "maxxyryo/maratus-php-backup",
     "description": "Backup different types databases(Couchdb, MongoDB, MySQL, PostgreSQL, Redis, Riak, SQLite) on local or remote to Google Drive, Dropbox, Copy, FTP etc.",
     "type": "library",
     "license": "MIT",
